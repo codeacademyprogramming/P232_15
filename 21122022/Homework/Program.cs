@@ -17,7 +17,7 @@ namespace Homework
             {
                 Console.Write($"{i+1}. Fullaname:");
                 string fullname = Console.ReadLine();
-
+                    
                 Console.Write($"{i + 1}. Age:");
                 string ageStr = Console.ReadLine();
                 byte age = Convert.ToByte(ageStr);

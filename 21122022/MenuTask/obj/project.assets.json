@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\15\\P232_15\\21122022\\Homework\\Homework.csproj",
-      "projectName": "Homework",
-      "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\15\\P232_15\\21122022\\Homework\\Homework.csproj",
+      "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\15\\P232_15\\21122022\\MenuTask\\MenuTask.csproj",
+      "projectName": "MenuTask",
+      "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\15\\P232_15\\21122022\\MenuTask\\MenuTask.csproj",
       "packagesPath": "C:\\Users\\Eagha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\15\\P232_15\\21122022\\Homework\\obj\\",
+      "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\15\\P232_15\\21122022\\MenuTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eagha\\AppData\\Roaming\\NuGet\\NuGet.Config",
