@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework", "Homework\Homework.csproj", "{366A9FFE-97F5-4EED-8D0C-197E734025AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuTask", "MenuTask\MenuTask.csproj", "{948D0689-BC9D-443C-B411-D92010136873}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MenuTask", "MenuTask\MenuTask.csproj", "{948D0689-BC9D-443C-B411-D92010136873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson", "Lesson\Lesson.csproj", "{81FE8792-95F4-41E0-BEF0-E981029EBE3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{948D0689-BC9D-443C-B411-D92010136873}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{948D0689-BC9D-443C-B411-D92010136873}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{948D0689-BC9D-443C-B411-D92010136873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FE8792-95F4-41E0-BEF0-E981029EBE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FE8792-95F4-41E0-BEF0-E981029EBE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FE8792-95F4-41E0-BEF0-E981029EBE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FE8792-95F4-41E0-BEF0-E981029EBE3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
